@@ -15,7 +15,7 @@ h1 {
 }
 
 nav a {
-  position: absolute; padding: 10px; background-color: yellow;
+  margin-left: 10px; margin-right: 10px; background-color: yellow;
 }
 
 #featured-property figcaption {
