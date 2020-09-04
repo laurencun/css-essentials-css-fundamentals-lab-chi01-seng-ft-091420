@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  align-self: center;
+}
+
+img {
+  align-self: center;
+}
+
+nav a {
+  padding: 10px; background-color: yellow;
+}
+
+#featured-property figcaption {
+  
+}
